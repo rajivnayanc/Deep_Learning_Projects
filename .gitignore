@@ -1,2 +1,7 @@
 .vscode/
 *.pyc
+.ipynb_checkpoints/
+Facial_Keypoints_Detection/test.csv
+Facial_Keypoints_Detection/training.csv
+Facial_Keypoints_Detection/IdLookupTable.csv
+Facial_Keypoints_Detection/submission.csv

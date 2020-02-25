@@ -40,6 +40,8 @@ Cat_Dog_Classifier_CNN/
 |   |   |   |   ...
 
 ```
+<hr>
+
 ## Contents
 1.  Loading Images from the directory and classes as per Directory Structure
 2.  Making Visualization Functions for Quick and beautiful Visualization of data
@@ -48,6 +50,9 @@ Cat_Dog_Classifier_CNN/
 5.  Evaluating the model
 6.  Visualizing the filters
 7.  Visualization of Feature Maps
-   
+
+<hr>
+
+![OUTPUT](output.jpg)
 
 Feel free to PR.
